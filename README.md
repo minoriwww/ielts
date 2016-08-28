@@ -14,3 +14,7 @@
 [speaking-questions](https://github.com/Vsfmqueen/ielts)
 
 [speaking website--diy](https://github.com/Soirana/audio-recording)
+
+[zhihu 雅思想考到6.5需要怎么准备?](http://www.zhihu.com/question/30531622)  
+
+[zhihu 雅思要怎么准备？](http://www.zhihu.com/question/19709258)
