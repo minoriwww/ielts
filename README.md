@@ -13,8 +13,16 @@
 
 [speaking-questions](https://github.com/Vsfmqueen/ielts)
 
-[speaking website--diy](https://github.com/Soirana/audio-recording)
+[speaking website--diy](https://github.com/Soirana/audio-recording)  
+
+## zhihu
 
 [zhihu 雅思想考到6.5需要怎么准备?](http://www.zhihu.com/question/30531622)  
 
 [zhihu 雅思要怎么准备？](http://www.zhihu.com/question/19709258)
+
+## ieltsadvantage.com
+
+[learn-english-ielts-home](http://ieltsadvantage.com/2015/03/03/learn-english-ielts-home-free/)
+
+##[ielts-mentor](http://www.ielts-mentor.com/)
