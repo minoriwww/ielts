@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## links  
+## Links  
 [公益课](https://github.com/lulu920819/IELTS_SYN)
 
 [ielts writing](https://github.com/DimaSalakhov/ielts)
@@ -17,7 +17,7 @@
 
 [speaking website--diy](https://github.com/Soirana/audio-recording)  
 
-## zhihu
+## Zhihu
 
 [zhihu 雅思想考到6.5需要怎么准备?](http://www.zhihu.com/question/30531622)  
 
@@ -31,4 +31,4 @@
 
 ---
 
-[GitBook aviliable](https://www.gitbook.com/book/minoriwww/ielts/details)
+[GitBook](https://www.gitbook.com/book/minoriwww/ielts/details)
