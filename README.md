@@ -33,4 +33,4 @@
 
 [GitBook](https://www.gitbook.com/book/minoriwww/ielts/details)
 
-Feel free to leave an issue for me if u wanna to join
+Feel free to leave an issue for me if u wanna join:)
