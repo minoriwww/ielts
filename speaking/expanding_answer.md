@@ -1,4 +1,4 @@
-#1 Show favor
+# 1 Show favor
 
 ## 1.1 model
 
@@ -13,22 +13,27 @@ I think
 
 ## 1.2 example answer
 
-- Do you enjoy doing sports?
-- Yea I do, I enjoy doing outdoor sports such as basketball and football, I think it‘s really healthy.
+* Do you enjoy doing sports?
+* Yea I do, I enjoy doing outdoor sports such as basketball and football, I think it‘s really healthy.
 
-- Do you enjoy doing sports?
-- Yea I do, I‘m into doing some contact sports such as football and basketball, I think it’s really intense and I love the body contact between players.
+* Do you enjoy doing sports?
 
-- Do you enjoy playing games?
-- Yea I do, I enjoy playing computer games such as CS and WOW, I think it‘s really fun and it’s a wonderful way to loosen up.
+* Yea I do, I‘m into doing some contact sports such as football and basketball, I think it’s really intense and I love the body contact between players.
 
-- What kinds of films do you enjoy watching?
-- I love watching Hollywood films such as Lord of the Rings and The Avengers, I think it has wonderful special effects and the plot is exciting.
+* Do you enjoy playing games?
+
+* Yea I do, I enjoy playing computer games such as CS and WOW, I think it‘s really fun and it’s a wonderful way to loosen up.
+
+* What kinds of films do you enjoy watching?
+
+* I love watching Hollywood films such as Lord of the Rings and The Avengers, I think it has wonderful special effects and the plot is exciting.
 
 ---
+
 # 2 Show disgusting
 
 ## 2.1 model
+
 ```
 
 Step 1
@@ -41,23 +46,26 @@ Direct answer + 反面opinion + bad experience
 
 
 ```
+
 ## 2.2 example answer
 
+* Do you enjoy cooking?
+* No I don’t, I can’t stand cooking, I think cooking is tricky（complex） and it’s a hassle（difficult,mass）, I remember a while ago, I cooked at home, the food was horrible and I was so exhausted.
 
-- Do you enjoy cooking?
-- No I don’t, I can’t stand cooking, I think cooking is tricky（complex） and it’s a hassle（difficult,mass）, I remember a while ago, I cooked at home, the food was horrible and I was so exhausted.
+* Do you like to take public transportation?
 
-- Do you like to take public transportation?
-- No I don’t, I can’t stand public transportation, I think it’s crowded and it’s uncomfortable, I remember a while ago, I took the bus, there were so many people squishing(挤) me and I felt like I was going to die.
+* No I don’t, I can’t stand public transportation, I think it’s crowded and it’s uncomfortable, I remember a while ago, I took the bus, there were so many people squishing\(挤\) me and I felt like I was going to die.
 
-- Do you like planting flowers?
-- No I don’t, I’m not into planting flowers, I think it’s useless and time-consuming, I remember a while ago, I planted some flowers at home , the flowers withered（枯萎） and I thought it was a hassle.
+* Do you like planting flowers?
+
+* No I don’t, I’m not into planting flowers, I think it’s useless and time-consuming, I remember a while ago, I planted some flowers at home , the flowers withered（枯萎） and I thought it was a hassle.
 
 ---
 
 # 3 Show habit or sth frequent
 
 ## 3.1 model
+
 ```
 Use following to give an example easily:
 
@@ -85,28 +93,31 @@ To enrich myself
 To kill time
 
 ```
+
 ## 3.2 example answer
 
+* I watch films by myself during my time off at home to enjoy myself.
 
-- I watch films by myself during my time off at home to enjoy myself.
+* I do sports with my friends during my weekends at the park to keep fit.
 
-- I do sports with my friends during my weekends at the park to keep fit.
-
-- I go traveling with my family during my holidays to many foreign countries to expand my horizons.
+* I go traveling with my family during my holidays to many foreign countries to expand my horizons.
 
 
-## 3.3 Combine 1 2 3 to answer part 1|3
+## 3.3 Combine 1 2 3 to answer part 1\|3
 
-- Do you enjoy doing sports?
-- Yea I do, I enjoy doing some outdoor sports such as basketball and football, I think it‘s really healthy, I play basketball with my friends during my weekends at the park to get some exercise.
+* Do you enjoy doing sports?
+* Yea I do, I enjoy doing some outdoor sports such as basketball and football, I think it‘s really healthy, I play basketball with my friends during my weekends at the park to get some exercise.
 
-- Do you enjoy cooking?
-- Yea I do, I enjoy cooking Chinese food such as GBJD and TDS, I think it‘s really good, I cook with my mother during my weekends at home to enjoy myself.
+* Do you enjoy cooking?
+
+* Yea I do, I enjoy cooking Chinese food such as GBJD and TDS, I think it‘s really good, I cook with my mother during my weekends at home to enjoy myself.
 
 ---
 
 # 4 Show experience and share
+
 ## 4.1 model
+
 ```
 Step 1
 I remember when I was a kid…
@@ -122,24 +133,29 @@ I thought it was ____ so I started to _____. （to shows off favor）
 It made me into a ____ person. （to shows off opinion）
 
 ```
+
 ## 4.2 example answer
-- I remember when I was a kid, my parents took me to museums very often, I thought I could learn a lot of new things so I started to enjoy going to museums.
 
-- I remember when I was a kid, I would always listen to my mother sing, I thought it was so beautiful so I started to enjoy singing.
+* I remember when I was a kid, my parents took me to museums very often, I thought I could learn a lot of new things so I started to enjoy going to museums.
 
-## 4.3 Combine 1 2 4 to answer part 1|3
-- Do you like to go museums?why?
-- Yea I do, I enjoy going to cultural museums, such as history museums and art museums, I think it makes my free time productive, I remember when I was a kid, my parents took me to museums very often, I thought I could learn a lot of new things so I started to enjoy going to museums.
+* I remember when I was a kid, I would always listen to my mother sing, I thought it was so beautiful so I started to enjoy singing.
+
+
+## 4.3 Combine 1 2 4 to answer part 1\|3
+
+* Do you like to go museums?why?
+* Yea I do, I enjoy going to cultural museums, such as history museums and art museums, I think it makes my free time productive, I remember when I was a kid, my parents took me to museums very often, I thought I could learn a lot of new things so I started to enjoy going to museums.
 
 ### 4.4 exercise
 
 DO YOU ENJOY READING THE NEWS?
 
----  
+---
 
 # 5 Show opinion
 
 ## 5.1 model
+
 ```
 Step 1
 avoid using think:
@@ -154,7 +170,7 @@ I think Opinion 1 and Opinion 2
 
 ## 5.2 sentence template
 
-** (1)___ can enhance someone‘s ____.或___ can cultivate someone‘s ____.**
+** \(1\)**_**** can enhance someone‘s \_****_**.或**_**** can cultivate someone‘s \_****_**.**
 
 ```
 skills
@@ -178,18 +194,17 @@ Teamwork ability团队合作能力
 Sense of responsibility责任感
 ```
 
-- Doing sports can enhance people‘s physical ability.
-- Learning how to cook can cultivate my independent ability.
-- Reading books can enhance children‘s mental development.
+* Doing sports can enhance people‘s physical ability.
+* Learning how to cook can cultivate my independent ability.
+* Reading books can enhance children‘s mental development.
 
+**\(2\) ******** keeps someone posted about the latest \_********  XX让我保持对最新的XX的了解（常用语文化传播类）**
 
-**(2) ____ keeps someone posted about the latest _____  XX让我保持对最新的XX的了解（常用语文化传播类）**
+* Advertisement keeps people posted about the latest products
+* The internet keeps me posted about the latest events.
 
+**\(3\)\_\_\_\_is good \/ bad for someone’s +noun**
 
-- Advertisement keeps people posted about the latest products
-- The internet keeps me posted about the latest events.
-
-**(3)____is good / bad for someone’s +noun**
 ```
 Health健康（区分adj:healthy）
 Growth成长
@@ -198,13 +213,12 @@ Career事业
 Studies学业
 ```
 
-- Studying finance is good for my future development.
-- Doing exercise regularly is good for people’s health
-- Studying English is good for people’s careers.
+* Studying finance is good for my future development.
+* Doing exercise regularly is good for people’s health
+* Studying English is good for people’s careers.
 
+**\(4\)******\_******is a good way to express someone’s +某种心情+towards******\_****
 
-
-**(4)_____is a good way to express someone’s +某种心情+towards_____**
 ```
 Emotions情感
 Love爱
@@ -214,49 +228,48 @@ Gratitude谢意
 Passion热衷
 ```
 
-- Sending flowers is a good way to express people’s love towards their other half.
-- Singing is a good way to express people’s emotions towards life.
-- Going to live concerts is a good way to express my passion for music.
+* Sending flowers is a good way to express people’s love towards their other half.
+* Singing is a good way to express people’s emotions towards life.
+* Going to live concerts is a good way to express my passion for music.
 
-**(5)______brings someone +noun**
+**\(5\)******\_\_******brings someone +noun**
+
 ```
 Convenience便利
 Happiness快乐
 Sense of achievement成就感
 Relaxation放松
 ```
-- The internet brings people convenience.
-- Raising a pet brings me a sense of achievement.
-- Going to KTV with my friends brings me happiness.
 
+* The internet brings people convenience.
+* Raising a pet brings me a sense of achievement.
+* Going to KTV with my friends brings me happiness.
 
-**(6)adds spice to someone’s life (给谁的生活添加乐趣/更精彩)**
+**\(6\)adds spice to someone’s life \(给谁的生活添加乐趣\/更精彩\)**
 
-- Computer games add spice to my life.
-- Gardening adds spice to my life.
+* Computer games add spice to my life.
+* Gardening adds spice to my life.
 
-**(7)____ helps someone get a better picture of _____.(___使谁对什么东西有一个更好的认识.)**
+**\(7\)******** helps someone get a better picture of \_********.\(**_**\_**_**使谁对什么东西有一个更好的认识.\)**
 
-- Traveling helps me get a better picture of the world.
-- History museums help people get a better picture of Chinese culture.
+* Traveling helps me get a better picture of the world.
+* History museums help people get a better picture of Chinese culture.
 
+**\(8\)******\_******is a necessary part of life.**
 
+* Learning how to cook is a necessary part of life.
+* Driving is a necessary part of life.
+* Entertainment is a necessary part of life.
 
-**(8)_____is a necessary part of life.**
+**\(9\)******** has a positive \/ negative influence on \_\_********.
+******** has a positive \/ negative effect on \_\_********.**
 
-- Learning how to cook is a necessary part of life.
-- Driving is a necessary part of life.
-- Entertainment is a necessary part of life.
+* Smoking has a negative effect on people’s health.
+* Reading has a positive influence on children.
+* Playing too much computer games have a negative influence on student’s studies.
 
-**(9)____ has a positive / negative influence on ______.
-____ has a positive / negative effect on ______.**
+**\(10\)******** can fulfill people’s \_******
 
-- Smoking has a negative effect on people’s health.
-- Reading has a positive influence on children.
-- Playing too much computer games have a negative influence on student’s studies.
-
-
-**(10)____ can fulfill people’s _____**
 ```
 Spiritual needs精神需求
 Material needs物质需求
@@ -264,10 +277,9 @@ Social needs社交需求
 Curiosity好奇心
 ```
 
-
-- Music can full fill people’s spiritual needs
-- Shopping can full fill people’s material needs
-- Going to parties can full fill people’s social needs.  
+* Music can full fill people’s spiritual needs
+* Shopping can full fill people’s material needs
+* Going to parties can full fill people’s social needs.  
 
 ```
 Convenient方便的
@@ -301,32 +313,25 @@ Health – oriented  以健康为中心的
 Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 ```
 
-- What kinds of books do you like to read?
-- I enjoy reading self improvement books, such as XX and XX, I think it can enhance my mental development, I read books during my time off at home to enrich my self.
+* What kinds of books do you like to read?
+* I enjoy reading self improvement books, such as XX and XX, I think it can enhance my mental development, I read books during my time off at home to enrich my self.
 
-- What kinds of flowers do you like?
-- I like yellow flowers such as daisies and sunflowers, I think flowers add spice to people’s lives and it brings people happiness, I remember when I was a kid, my mother planted a lot of flowers at home, I thought it made my home felt livelier so I started to like flowers.
+* What kinds of flowers do you like?
 
-
-
-
-
-
-
-
+* I like yellow flowers such as daisies and sunflowers, I think flowers add spice to people’s lives and it brings people happiness, I remember when I was a kid, my mother planted a lot of flowers at home, I thought it made my home felt livelier so I started to like flowers.
 
 ## 5.3 model
 
-- What kinds of books do you like to read?
-I enjoy reading self improvement books, such as XX and XX, I think it can enhance my mental development, I read books during my time off at home to enrich my self.
-- What kinds of flowers do you like?
-I like yellow flowers such as daisies and sunflowers, I think flowers add spice to people’s lives and it brings people happiness, I remember when I was a kid, my mother planted a lot of flowers at home, I thought it made my home felt livelier so I started to like flowers.
+* What kinds of books do you like to read?
+  I enjoy reading self improvement books, such as XX and XX, I think it can enhance my mental development, I read books during my time off at home to enrich my self.
+* What kinds of flowers do you like?
+  I like yellow flowers such as daisies and sunflowers, I think flowers add spice to people’s lives and it brings people happiness, I remember when I was a kid, my mother planted a lot of flowers at home, I thought it made my home felt livelier so I started to like flowers.
 
 ---
 
-# 6 ALTHOUGH (speak of opposite opinion)
+# 6 ALTHOUGH \(speak of opposite opinion\)
 
----  
+---
 
 # License
 
@@ -335,3 +340,4 @@ Apache
 ---
 
 Thanks ZACK!
+
