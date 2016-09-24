@@ -1,6 +1,6 @@
 # IELTS
 
-[](https://github.com/sindresorhus/awesome)
+
 
 ## Links
 
@@ -36,41 +36,5 @@
 
 Feel free to leave an issue for me if u wanna join:\)
 
-&lt;div id="disqus\_thread"&gt;&lt;\/div&gt;
 
-&lt;script&gt;
-
-\/\*\*
-
- \* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-
- \* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https:\/\/disqus.com\/admin\/universalcode\/\#configuration-variables \*\/
-
-\/\*
-
-var disqus\_config = function \(\) {
-
- this.page.url = PAGE\_URL; \/\/ Replace PAGE\_URL with your page's canonical URL variable
-
- this.page.identifier = PAGE\_IDENTIFIER; \/\/ Replace PAGE\_IDENTIFIER with your page's unique identifier variable
-
-};
-
-\*\/
-
-\(function\(\) { \/\/ DON'T EDIT BELOW THIS LINE
-
- var d = document, s = d.createElement\('script'\);
-
- s.src = '\/\/ielts-1.disqus.com\/embed.js';
-
- s.setAttribute\('data-timestamp', +new Date\(\)\);
-
- \(d.head \|\| d.body\).appendChild\(s\);
-
-}\)\(\);
-
-&lt;\/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https:\/\/disqus.com\/?ref\_noscript"&gt;comments powered by Disqus.&lt;\/a&gt;&lt;\/noscript&gt;
 
