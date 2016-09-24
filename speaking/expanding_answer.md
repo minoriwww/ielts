@@ -1,4 +1,4 @@
-# 1. Show favor
+# 1 Show favor
 
 ## 1.1 model
 
@@ -55,7 +55,7 @@ Direct answer + 反面opinion + bad experience
 
 ---
 
-# 3. Show habit or sth frequent
+# 3 Show habit or sth frequent
 
 ## 3.1 model
 ```
@@ -105,7 +105,7 @@ To kill time
 
 ---
 
-# 4. Show experience and share
+# 4 Show experience and share
 ## 4.1 model
 ```
 Step 1
@@ -137,7 +137,7 @@ DO YOU ENJOY READING THE NEWS?
 
 ---  
 
-# 5. Show opinion
+# 5 Show opinion
 
 ## 5.1 model
 ```
