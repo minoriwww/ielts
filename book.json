@@ -1,2 +1,67 @@
 {
+
+ "title": "ielts",
+
+ "language": "zh",
+
+ "plugins": [
+
+ "disqus",
+
+ "github",
+
+ "editlink",
+
+ "prism",
+
+ "-highlight",
+
+ "baidu",
+
+ "splitter",
+
+ "sitemap",
+
+ "anchors"
+
+ ],
+
+ "pluginsConfig": {
+
+ "disqus": {
+
+ "shortName": "webpack-handbook"
+
+ },
+
+ "github": {
+
+ "url": "https://github.com/zhaoda/webpack-handbook"
+
+ },
+
+ "editlink": {
+
+ "base": "https://github.com/zhaoda/webpack-handbook/blob/master/content",
+
+ "label": "编辑本页"
+
+ },
+
+ "baidu": {
+
+ "token": "a9787f0ab45d5e237bab522431d0a7ec"
+
+ },
+
+ "sitemap": {
+
+ "hostname": "http://zhaoda.net/"
+
+ }
+
+ }
+
 }
+
+
