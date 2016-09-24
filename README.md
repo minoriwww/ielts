@@ -1,8 +1,9 @@
 # IELTS
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[](https://github.com/sindresorhus/awesome)
 
-## Links  
+## Links
+
 [公益课](https://github.com/lulu920819/IELTS_SYN)
 
 [ielts writing](https://github.com/DimaSalakhov/ielts)
@@ -15,11 +16,11 @@
 
 [speaking-questions](https://github.com/Vsfmqueen/ielts)
 
-[speaking website--diy](https://github.com/Soirana/audio-recording)  
+[speaking website--diy](https://github.com/Soirana/audio-recording)
 
 ## Zhihu
 
-[zhihu 雅思想考到6.5需要怎么准备?](http://www.zhihu.com/question/30531622)  
+[zhihu 雅思想考到6.5需要怎么准备?](http://www.zhihu.com/question/30531622)
 
 [zhihu 雅思要怎么准备？](http://www.zhihu.com/question/19709258)
 
@@ -33,4 +34,43 @@
 
 [GitBook](https://www.gitbook.com/book/minoriwww/ielts/details)
 
-Feel free to leave an issue for me if u wanna join:)
+Feel free to leave an issue for me if u wanna join:\)
+
+&lt;div id="disqus\_thread"&gt;&lt;\/div&gt;
+
+&lt;script&gt;
+
+\/\*\*
+
+ \* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+
+ \* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https:\/\/disqus.com\/admin\/universalcode\/\#configuration-variables \*\/
+
+\/\*
+
+var disqus\_config = function \(\) {
+
+ this.page.url = PAGE\_URL; \/\/ Replace PAGE\_URL with your page's canonical URL variable
+
+ this.page.identifier = PAGE\_IDENTIFIER; \/\/ Replace PAGE\_IDENTIFIER with your page's unique identifier variable
+
+};
+
+\*\/
+
+\(function\(\) { \/\/ DON'T EDIT BELOW THIS LINE
+
+ var d = document, s = d.createElement\('script'\);
+
+ s.src = '\/\/ielts-1.disqus.com\/embed.js';
+
+ s.setAttribute\('data-timestamp', +new Date\(\)\);
+
+ \(d.head \|\| d.body\).appendChild\(s\);
+
+}\)\(\);
+
+&lt;\/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https:\/\/disqus.com\/?ref\_noscript"&gt;comments powered by Disqus.&lt;\/a&gt;&lt;\/noscript&gt;
+
