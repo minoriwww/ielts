@@ -1,4 +1,4 @@
-# 1 Show favor
+#1 Show favor
 
 ## 1.1 model
 
