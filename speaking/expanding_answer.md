@@ -1,4 +1,4 @@
-# 1 Show favor
+# 1 Show favor {#1-show-favor}
 
 ## 1.1 model
 
@@ -27,6 +27,7 @@ I think
 * What kinds of films do you enjoy watching?
 
 * I love watching Hollywood films such as Lord of the Rings and The Avengers, I think it has wonderful special effects and the plot is exciting.
+
 
 ---
 
@@ -59,6 +60,7 @@ Direct answer + 反面opinion + bad experience
 * Do you like planting flowers?
 
 * No I don’t, I’m not into planting flowers, I think it’s useless and time-consuming, I remember a while ago, I planted some flowers at home , the flowers withered（枯萎） and I thought it was a hassle.
+
 
 ---
 
@@ -111,6 +113,7 @@ To kill time
 * Do you enjoy cooking?
 
 * Yea I do, I enjoy cooking Chinese food such as GBJD and TDS, I think it‘s really good, I cook with my mother during my weekends at home to enjoy myself.
+
 
 ---
 
@@ -170,7 +173,7 @@ I think Opinion 1 and Opinion 2
 
 ## 5.2 sentence template
 
-** \(1\)**_**** can enhance someone‘s \_****_**.或**_**** can cultivate someone‘s \_****_**.**
+** \(1\)**__\*\*___ can enhance someone‘s \_**\*\*\_**.或**\_\*\*** can cultivate someone‘s \_**\*\*\_**.\*\*
 
 ```
 skills
@@ -198,7 +201,7 @@ Sense of responsibility责任感
 * Learning how to cook can cultivate my independent ability.
 * Reading books can enhance children‘s mental development.
 
-**\(2\) ******** keeps someone posted about the latest \_********  XX让我保持对最新的XX的了解（常用语文化传播类）**
+**\(2\) ******\*\***** keeps someone posted about the latest \__**\*\***_  XX让我保持对最新的XX的了解（常用语文化传播类）\*\*
 
 * Advertisement keeps people posted about the latest products
 * The internet keeps me posted about the latest events.
@@ -217,7 +220,7 @@ Studies学业
 * Doing exercise regularly is good for people’s health
 * Studying English is good for people’s careers.
 
-**\(4\)******\_******is a good way to express someone’s +某种心情+towards******\_****
+**\(4\)**_**\*\***_\_**\*\***is a good way to express someone’s +某种心情+towards**\*\***\__\*\*_
 
 ```
 Emotions情感
@@ -232,7 +235,7 @@ Passion热衷
 * Singing is a good way to express people’s emotions towards life.
 * Going to live concerts is a good way to express my passion for music.
 
-**\(5\)******\_\_******brings someone +noun**
+**\(5\)**_**\*\***_\_\_**\*\***brings someone +noun\*\*
 
 ```
 Convenience便利
@@ -250,25 +253,25 @@ Relaxation放松
 * Computer games add spice to my life.
 * Gardening adds spice to my life.
 
-**\(7\)******** helps someone get a better picture of \_********.\(**_**\_**_**使谁对什么东西有一个更好的认识.\)**
+**\(7\)******\*\***** helps someone get a better picture of \__**\*\***_.\(**\_**\_**\_**使谁对什么东西有一个更好的认识.\)\*\*
 
 * Traveling helps me get a better picture of the world.
 * History museums help people get a better picture of Chinese culture.
 
-**\(8\)******\_******is a necessary part of life.**
+**\(8\)**_**\*\***_\_**\*\***is a necessary part of life.\*\*
 
 * Learning how to cook is a necessary part of life.
 * Driving is a necessary part of life.
 * Entertainment is a necessary part of life.
 
-**\(9\)******** has a positive \/ negative influence on \_\_********.
-******** has a positive \/ negative effect on \_\_********.**
+**\(9\)******\*\***** has a positive \/ negative influence on \_\__**\*\***_.
+_**\*\***_ has a positive \/ negative effect on \_\__**\*\***_.\*\*
 
 * Smoking has a negative effect on people’s health.
 * Reading has a positive influence on children.
 * Playing too much computer games have a negative influence on student’s studies.
 
-**\(10\)******** can fulfill people’s \_******
+**\(10\)******\*\***** can fulfill people’s \_**\*\***
 
 ```
 Spiritual needs精神需求
@@ -319,6 +322,7 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 * What kinds of flowers do you like?
 
 * I like yellow flowers such as daisies and sunflowers, I think flowers add spice to people’s lives and it brings people happiness, I remember when I was a kid, my mother planted a lot of flowers at home, I thought it made my home felt livelier so I started to like flowers.
+
 
 ## 5.3 model
 
