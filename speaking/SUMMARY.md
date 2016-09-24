@@ -1,1 +1,1 @@
-* [Show favor](expanding_answer.html)
+* [Show favor](expanding_answer.md)
