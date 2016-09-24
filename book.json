@@ -31,21 +31,21 @@
 
  "disqus": {
 
- "shortName": "webpack-handbook"
+ "shortName": "9bishi"
 
  },
 
  "github": {
 
- "url": "https://github.com/zhaoda/webpack-handbook"
+ "url": "https://github.com/minoriwww/ielts"
 
  },
 
  "editlink": {
 
- "base": "https://github.com/zhaoda/webpack-handbook/blob/master/content",
+ "base": "https://github.com/minoriwww/ielts/blob/master/content",
 
- "label": "编辑本页"
+ "label": "editPage"
 
  },
 
