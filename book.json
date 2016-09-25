@@ -22,7 +22,7 @@
  "sitemap",
 
  "anchors",
-
+"anchorjs",
 "youtube",
 "tags",
 "etoc",
@@ -39,6 +39,8 @@
  "shortName": "ielts-1"
 
  },
+"anchorjs": { "icon": "#", "placement": "left", "visible": "always", "class": "custom-class another-one" },
+
 "highlight" : {
 
 "highlightCommented" : true
