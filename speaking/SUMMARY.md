@@ -1,2 +1,2 @@
-* [e3](/speaking/NC_zack/e3.md)
+* [e3](NC_zack/e3.md)
 
