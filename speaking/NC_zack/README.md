@@ -1,2 +1,12 @@
-# from newChannel.zack import \* 
+# from newChannel.zack import \*
+
+---
+
+# License
+
+Apache
+
+---
+
+Thanks ZACK!
 
