@@ -1,79 +1,63 @@
 {
-"gitbook": "2.x.x", 
-
- "title": "ielts",
-
- "language": "zh",
-
- "plugins": [
-
- "disqus",
-
- "github",
-
- "editlink",
-
- "prism",
-
- "baidu",
-
- "splitter",
-
- "sitemap",
-
- "anchors",
-"anchorjs",
-"youtube",
-"tags",
-"etoc",
-"katex"
-
-
-
- ],
-
- "pluginsConfig": {
-
- "disqus": {
-
- "shortName": "ielts-1"
-
- },
-"anchorjs": { "icon": "#", "placement": "left", "visible": "always", "class": "custom-class another-one" },
-
-"highlight" : {
-
-"highlightCommented" : true
-},
-
- "github": {
-
- "url": "https://github.com/minoriwww/ielts"
-
- },
-
- "editlink": {
-
- "base": "https://github.com/minoriwww/ielts",
-
- "label": "editPage"
-
- },
-
- "baidu": {
-
- "token": "a9787f0ab45d5e237bab522431d0a7ec"
-
- },
-
- "sitemap": {
-
- "hostname": "http://zhaoda.net/"
-
- }
-
- }
-
+    "plugins": [
+        "disqus",
+        "github",
+        "editlink",
+        "prism",
+        "baidu",
+        "splitter",
+        "sitemap",
+        "anchors",
+        "anchorjs",
+        "youtube",
+        "tags",
+        "etoc",
+        "katex",
+        "exercises",
+        "video",
+        "unicodecss",
+        "tree",
+        "toolbar",
+        "tongji",
+        "todo",
+        "toggle-chapters",
+        "tbfed-pagefooter",
+        "tabs",
+        "tasklist",
+        "pyweb",
+        "markdown-parse-add-br",
+        "katex-full",
+        "code-highlighter",
+        "chart"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "ielts-1"
+        },
+        "anchorjs": {
+            "icon": "#",
+            "placement": "left",
+            "visible": "always",
+            "class": "custom-class another-one"
+        },
+        "highlight": {
+            "highlightCommented": true
+        },
+        "github": {
+            "url": "https://github.com/minoriwww/ielts"
+        },
+        "editlink": {
+            "base": "https://github.com/minoriwww/ielts",
+            "label": "editPage"
+        },
+        "baidu": {
+            "token": "a9787f0ab45d5e237bab522431d0a7ec"
+        },
+        "sitemap": {
+            "hostname": "http://zhaoda.net/"
+        }
+    },
+    "title": "ielts",
+    "language": "zh",
+    "gitbook": "2.x.x"
 }
-
-
