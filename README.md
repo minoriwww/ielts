@@ -1,7 +1,5 @@
 # IELTS
 
-
-
 ## Links
 
 [公益课](https://github.com/lulu920819/IELTS_SYN)
@@ -28,6 +26,8 @@
 
 [learn-english-ielts-home](http://ieltsadvantage.com/2015/03/03/learn-english-ielts-home-free/)
 
+{% video %}https:\/\/www.youtube.com\/watch?v=-OAHhzY50yY{% endvideo %} 
+
 ## [ielts-mentor](http://www.ielts-mentor.com/)
 
 ---
@@ -35,6 +35,4 @@
 [GitBook](https://www.gitbook.com/book/minoriwww/ielts/details)
 
 Feel free to leave an issue for me if u wanna join:\)
-
-
 
