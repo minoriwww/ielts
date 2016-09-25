@@ -26,7 +26,7 @@
 
 [learn-english-ielts-home](http://ieltsadvantage.com/2015/03/03/learn-english-ielts-home-free/)
 
-{% video %}https://www.youtube.com/watch?v=Oru-qw-Faac{% endvideo %} 
+{% video %}https://www.youtube.com/watch?v=Oru-qw-Faac {% endvideo %} 
 
 
 ## [ielts-mentor](http://www.ielts-mentor.com/)
