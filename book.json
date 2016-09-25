@@ -38,7 +38,7 @@
  },
 "highlight" : {
 
-"highlight" : true
+"highlightCommented" : true
 },
 
  "github": {
