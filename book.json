@@ -34,15 +34,6 @@
         "disqus": {
             "shortName": "ielts-1"
         },
-        "anchorjs": {
-            "icon": "#",
-            "placement": "left",
-            "visible": "always",
-            "class": "custom-class another-one"
-        },
-        "highlight": {
-            "highlightCommented": true
-        },
         "github": {
             "url": "https://github.com/minoriwww/ielts"
         },
@@ -50,11 +41,32 @@
             "base": "https://github.com/minoriwww/ielts",
             "label": "editPage"
         },
+        "highlight": {
+            "highlightCommented": true
+        },
+        "sitemap": {
+            "hostname": "https://minoriwww.gitbooks.io/ielts/content/"
+        },
+        "tags": {
+            "placement": "top"
+        },
         "baidu": {
             "token": "a9787f0ab45d5e237bab522431d0a7ec"
         },
-        "sitemap": {
-            "hostname": "http://zhaoda.net/"
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": true,
+            "instapaper": true,
+            "vk": true,
+            "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "anchorjs": {
+            "icon": "#",
+            "placement": "left",
+            "visible": "always",
+            "class": "custom-class another-one"
         }
     },
     "title": "ielts",
