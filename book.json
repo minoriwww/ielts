@@ -5,7 +5,7 @@
         "editlink",
         "prism",
         "splitter",
-        "sitemap",
+        "sitemap2",
         "anchors",
         "anchorjs",
         "youtube",
@@ -25,7 +25,9 @@
         "markdown-parse-add-br",
         "katex-full",
         "code-highlighter",
-        "chart"
+        "chart",
+"swiftype"
+
     ],
     "pluginsConfig": {
         "disqus": {
@@ -46,7 +48,7 @@
         "highlight": {
             "highlightCommented": true
         },
-        "sitemap": {
+        "sitemap2": {
             "hostname": "https://minoriwww.gitbooks.io/ielts/content/"
         },
         "tags": {
@@ -65,7 +67,9 @@
             "placement": "left",
             "visible": "always",
             "class": "custom-class another-one"
-        }
+        },
+"swiftype": { "token": "utQHy1R2XyiVqDqaZxxx", "version": "2.0.0" }
+
     },
     "title": "ielts",
     "language": "zh",
