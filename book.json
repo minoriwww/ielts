@@ -26,9 +26,8 @@
         "katex-full",
         "code-highlighter",
         "chart",
-"swiftype",
-"algolia"
-
+        "swiftype",
+        "algolia"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -49,11 +48,12 @@
         "highlight": {
             "highlightCommented": true
         },
-        "sitemap2": {
-            "hostname": "https://minoriwww.gitbooks.io/ielts/content/"
-        },
         "tags": {
             "placement": "top"
+        },
+        "swiftype": {
+            "token": "utQHy1R2XyiVqDqaZxxx",
+            "version": "2.0.0"
         },
         "sharing": {
             "facebook": true,
@@ -63,15 +63,15 @@
             "instapaper": true,
             "vk": true
         },
+        "sitemap2": {
+            "hostname": "https://minoriwww.gitbooks.io/ielts/content/"
+        },
         "anchorjs": {
             "icon": "#",
             "placement": "left",
             "visible": "always",
             "class": "custom-class another-one"
-        },
-"swiftype": { "token": "utQHy1R2XyiVqDqaZxxx", "version": "2.0.0" }
-
-
+        }
     },
     "title": "ielts",
     "language": "zh",
