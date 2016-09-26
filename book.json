@@ -54,8 +54,7 @@
             "google": true,
             "weibo": true,
             "instapaper": true,
-            "vk": true,
-            "all": ""
+            "vk": true
         },
         "anchorjs": {
             "icon": "#",
