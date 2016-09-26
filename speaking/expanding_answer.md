@@ -374,7 +374,7 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 
 \(for time usage\)
 
-### **7.1.2 simple answer**
+### 7.1.2 simple answer
 
 * What do you like to do during the weekends?
 
@@ -387,9 +387,9 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 * Sometimes, I play basketball with my friends during my time off at the park to get some exercise, other times, I go shopping with my family during my free time at the mall the buy some things.
 
 
-### **7.2.1 It depends, if \_\_\_ then I’ll \_\_\_\_ but if \_\_\_\_ then I’ll \_\_\_\_\_.\(for individual，hypothesis and logic are different \)**
+### 7.2.1 It depends, if \_\_\_ then I’ll \_\_\_\_ but if \_\_\_\_ then I’ll \_\_\_\_\_.\(for individual，hypothesis and logic are different \)
 
-### 7.2.2  **simple answer** 
+### 7.2.2 simple answer
 
 * What do you usually use your mobile phone for?
 
@@ -425,7 +425,7 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 
 \(to explain the larger group's hobby\/custom\)
 
-### **8.1.2 ** **simple answer** 
+### 8.1.2 simple answer
 
 * What kinds of sports do people in your country like to do?
 
@@ -446,9 +446,9 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 
 
 
-### **8.2.1 Most people enjoy  \(like \/ be used to\)** ** \_\_\_\_ for example \_\_\_\_\_, but personally speaking, \(...sth critical towards lager group ...\)，so I like \_\_\_\_\_\_.**
+### 8.2.1 Most people enjoy  \(like \/ be used to\)  \_\_\_\_ for example \_\_\_\_\_, but personally speaking, \(...sth critical towards lager group ...\)，so I like \_\_\_\_\_\_.
 
-### **8.2.2** **simple answer**
+### 8.2.2 simple answer
 
 * What kinds of dance are popular in your country?
 
@@ -469,15 +469,15 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 
 ---
 
-# **9 Personal Preferences\(either or choose\)**
+# 9 Personal Preferences\(either or choose\)
 
-## **9.1 model**
+## 9.1 model
 
 **I would prefer V ing A over B because A \(advantage \)，whereas B** **\(advantage \)** **, but B\(reasons why u not choose \).（using in Do you like A or B?）**
 
 
 
-## **9.2 simple answer **
+## 9.2 simple answer
 
 * Do you prefer shopping in large department stores or in small shops?
 
@@ -502,11 +502,11 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 
 # 10 Comparing
 
-## **10.1 model**
+## 10.1 model
 
 **Compared to A, B is \_\_\_ for example \_\_\_\_\_, on the other hand, A is \_\_\_\_ for example \_\_\_\_.\(for comparison in an object way \)**
 
-## 10.2  **simple answer** 
+## 10.2 simple answer
 
 * What are the differences between films that adults enjoy watching and films that children enjoy watching?
 
@@ -529,13 +529,13 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 
 ---
 
-# 11  **Past\/Present Comparison**
+# 11 Past\/Present Comparison
 
-## **11.1 model**
+## 11.1 model
 
 **In the past, \(subject\) was \_\_\_ for example \_\_\_\_, but after a few years ** **\(subject\)**  **started to \_\_\_ and now** **\(subject\)** **is \_\_\_\_ for example \_\_\_\_.**
 
-## **11.2 vocabulary **
+## 11.2 vocabulary 
 
 硬件变化：Undeveloped &gt; develop &gt; modern
 
@@ -543,7 +543,7 @@ Study-oriented以学习为中心的（___ - oriented以什么为中心的）
 
 Spiritual civilization construction 
 
-## **11.3 simple answer **
+## 11.3 simple answer 
 
 * How has your hometown changed in the past 20 years?
 
@@ -560,9 +560,9 @@ Spiritual civilization construction
 
 ---
 
-# **12 Future plans**
+# 12 Future plans
 
-### **12.1.1 Short term speaking, I plan to \_\_\_\_\_ and long term speaking, I hope to**
+### 12.1.1 Short term speaking, I plan to \_\_\_\_\_ and long term speaking, I hope to
 
 ### 12.1.2 simple answer
 
@@ -583,7 +583,7 @@ Spiritual civilization construction
 
 **ans:**
 
-### **12.2.1 Yea I would, but currently I want to focus on \_\_\_\_\_, and in the future when I \_\_\_\_\_ I will \_\_\_\_\_\_because \_\_\_\_\_\_.**
+### 12.2.1 Yea I would, but currently I want to focus on \_\_\_\_\_, and in the future when I \_\_\_\_\_ I will \_\_\_\_\_\_because \_\_\_\_\_\_.
 
 ### **12.2.2 simple answer**
 
@@ -602,13 +602,13 @@ Spiritual civilization construction
 
 ---
 
-# 13  **Giving advice \/ Suggestions**
+# 13 Giving advice \/ Suggestions
 
 ## 13.1 model
 
 **It would really be helpful if someone did something, you know right now...，so if someone did something\(more details...\)，...how problem be solved...\(conclusion）.\(1 problem, stu need solve, which is common in part3\)**
 
-## **13.2 simlple answer**
+## 13.2 simlple answer
 
 * What advice would you give to the government to make your hometown a better place?
 
@@ -635,7 +635,7 @@ Spiritual civilization construction
 
 ---
 
-# **14 Explaining things**
+# 14 Explaining things
 
 ## 14.1 model
 
@@ -707,7 +707,7 @@ Spiritual civilization construction
 
 **Direct answer + 正面opinion + although反面opinion + I still think再次重复观点 because \_\_\_\_.**
 
-## **16.2 simple answer**
+## 16.2 simple answer
 
 * Do you think E learning is good?
 
@@ -732,5 +732,5 @@ Apache2
 
 ---
 
-Thanks ZACK!
+by ZACK and leo
 
