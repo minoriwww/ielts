@@ -26,8 +26,8 @@
         "katex-full",
         "code-highlighter",
         "chart",
-        "swiftype",
-        "algolia"
+        "swiftype"
+
     ],
     "pluginsConfig": {
         "disqus": {
