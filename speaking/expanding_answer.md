@@ -1,3 +1,7 @@
+&lt;!-- toc --&gt;
+
+
+
 # 1 Show favor {#1-show-favor}
 
 ## 1.1 model
@@ -173,7 +177,7 @@ I think Opinion 1 and Opinion 2
 
 ## 5.2 sentence template
 
-** \(1\)**__\*\*___ can enhance someone‘s \_**\*\*\_**.或**\_\*\*** can cultivate someone‘s \_**\*\*\_**.\*\*
+** \(1\)****\*\*\_** can enhance someone‘s \_**\*\*\_**.或**\_\*\*** can cultivate someone‘s \_**\*\*\_**.\*\*
 
 ```
 skills
@@ -201,7 +205,7 @@ Sense of responsibility责任感
 * Learning how to cook can cultivate my independent ability.
 * Reading books can enhance children‘s mental development.
 
-**\(2\) ******\*\***** keeps someone posted about the latest \__**\*\***_  XX让我保持对最新的XX的了解（常用语文化传播类）\*\*
+**\(2\) **_**\*\***_\*\***\*\* keeps someone posted about the latest \_\_**\*\*_\*\_  XX让我保持对最新的XX的了解（常用语文化传播类）\_\*
 
 * Advertisement keeps people posted about the latest products
 * The internet keeps me posted about the latest events.
@@ -220,7 +224,7 @@ Studies学业
 * Doing exercise regularly is good for people’s health
 * Studying English is good for people’s careers.
 
-**\(4\)**_**\*\***_\_**\*\***is a good way to express someone’s +某种心情+towards**\*\***\__\*\*_
+**\(4\)****_\*\*_**\_**\*\***is a good way to express someone’s +某种心情+towards**\*\***\__\*\*_
 
 ```
 Emotions情感
@@ -235,7 +239,7 @@ Passion热衷
 * Singing is a good way to express people’s emotions towards life.
 * Going to live concerts is a good way to express my passion for music.
 
-**\(5\)**_**\*\***_\_\_**\*\***brings someone +noun\*\*
+**\(5\)****_\*\*_**\_\_**\*\***brings someone +noun\*\*
 
 ```
 Convenience便利
@@ -253,25 +257,25 @@ Relaxation放松
 * Computer games add spice to my life.
 * Gardening adds spice to my life.
 
-**\(7\)******\*\***** helps someone get a better picture of \__**\*\***_.\(**\_**\_**\_**使谁对什么东西有一个更好的认识.\)\*\*
+**\(7\)**_**\*\***_\*\***\*\* helps someone get a better picture of \_\_**\*\***\_.\(**\_**\_**\__\*使谁对什么东西有一个更好的认识.\)\_\*
 
 * Traveling helps me get a better picture of the world.
 * History museums help people get a better picture of Chinese culture.
 
-**\(8\)**_**\*\***_\_**\*\***is a necessary part of life.\*\*
+**\(8\)****_\*\*_**\_**\*\***is a necessary part of life.\*\*
 
 * Learning how to cook is a necessary part of life.
 * Driving is a necessary part of life.
 * Entertainment is a necessary part of life.
 
-**\(9\)******\*\***** has a positive \/ negative influence on \_\__**\*\***_.
-_**\*\***_ has a positive \/ negative effect on \_\__**\*\***_.\*\*
+**\(9\)**_**\*\***_\*\***\*\* has a positive \/ negative influence on \_\_\_**\*\*_**.
+**_\*\*_** has a positive \/ negative effect on \**_**\_\_**\*\*_\*\_.\_\*
 
 * Smoking has a negative effect on people’s health.
 * Reading has a positive influence on children.
 * Playing too much computer games have a negative influence on student’s studies.
 
-**\(10\)******\*\***** can fulfill people’s \_**\*\***
+**\(10\)**_**\*\***_\*\***\*\* can fulfill people’s \_**\*\*\*\*
 
 ```
 Spiritual needs精神需求
