@@ -55,7 +55,6 @@
             "weibo": true,
             "instapaper": true,
             "vk": true,
-            "all": "facebook,google,twitter,weibo,instapaper"
         },
         "anchorjs": {
             "icon": "#",
