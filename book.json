@@ -48,6 +48,9 @@
         "highlight": {
             "highlightCommented": true
         },
+        "sitemap": {
+            "hostname": "https://minoriwww.gitbooks.io/ielts/content/"
+        },
         "tags": {
             "placement": "top"
         },
@@ -62,9 +65,6 @@
             "weibo": true,
             "instapaper": true,
             "vk": true
-        },
-        "sitemap": {
-            "hostname": "https://minoriwww.gitbooks.io/ielts/content/"
         },
         "anchorjs": {
             "icon": "#",
