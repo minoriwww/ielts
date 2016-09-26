@@ -26,7 +26,8 @@
         "katex-full",
         "code-highlighter",
         "chart",
-"swiftype"
+"swiftype",
+"algolia"
 
     ],
     "pluginsConfig": {
