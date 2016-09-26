@@ -31,6 +31,11 @@
         "disqus": {
             "shortName": "ielts-1"
         },
+        "etoc": {
+            "mindepth": 2,
+            "maxdepth": 4,
+            "notoc": true
+        },
         "github": {
             "url": "https://github.com/minoriwww/ielts"
         },
