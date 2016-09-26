@@ -1,6 +1,6 @@
 # Expanding\_ans  
 
-&lt;!-- toc --&gt;
+<!-- toc -->
 
 # 1 Show favor {#1-show-favor}
 
