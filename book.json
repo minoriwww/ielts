@@ -63,7 +63,7 @@
             "twitter": true,
             "google": true,
             "weibo": true,
-            "instapaper": true,
+            "instapaper": false,
             "vk": true
         },
         "anchorjs": {
