@@ -69,8 +69,7 @@
             "visible": "always",
             "class": "custom-class another-one"
         },
-"swiftype": { "token": "utQHy1R2XyiVqDqaZxxx", "version": "2.0.0" },
-"algolia": { "index": "algolia-index-name", "applicationID": "algolia-application-id", "publicKey": "algolia-search-only-api-key" "freeAccount": "true" }
+"swiftype": { "token": "utQHy1R2XyiVqDqaZxxx", "version": "2.0.0" }
 
 
     },
