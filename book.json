@@ -39,10 +39,10 @@
             "notoc": true
         },
         "github": {
-            "url": "https://github.com/minoriwww/ielts"
+            "url": "https://github.com/minoriwww/ielts/tree/master"
         },
         "editlink": {
-            "base": "https://github.com/minoriwww/ielts",
+            "base": "https://github.com/minoriwww/ielts/tree/master",
             "label": "editPage"
         },
         "highlight": {
