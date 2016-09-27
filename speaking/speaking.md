@@ -4,7 +4,7 @@
 
 # rule PRE
 
-## \# means point, reason, example
+## means point, reason, example
 
 ## name
 
