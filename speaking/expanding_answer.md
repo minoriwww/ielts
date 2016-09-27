@@ -2,7 +2,7 @@
 
 <!-- toc -->
 
-# 1 Show favor {#1-show-favor}
+# 1 Show favor {}
 
 ## 1.1 model
 
