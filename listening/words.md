@@ -146,7 +146,7 @@ intern 实习生
 
 faculty 院系，教职员工
 
-tutor \/ instructor （英）导师，家教
+- tutor \/ instructor （英）导师，家教
 
  （美）助教，讲师
 
@@ -216,7 +216,7 @@ academic year 学年
 
 school calendar \/ school catalog \/ academic calendar 校历，大学情况一览
 
-year book 毕业留念册
+- year book 毕业留念册
 
 term \/ semester 学期（一学期四个月，一学年两学期）
 
@@ -250,7 +250,7 @@ minor 辅修
 
 lecture 讲课，讲座
 
-tutorial （英）个别辅导课
+- tutorial （英）个别辅导课
 
 seminar 研讨会，研讨班课程
 
@@ -382,7 +382,7 @@ flat \/ apartment 公寓（出租给学生）
 
 on campus 住校
 
-off campus 不住校
+- off campus 不住校
 
 student union 学生会
 
@@ -424,9 +424,9 @@ reunion 校友联谊聚会
 
 abode 住所
 
-dwelling 住处
+- dwelling 住处
 
-residence 住宅
+- residence 住宅
 
 bungalow \/ ranch house 平房，小屋，农场房屋
 
@@ -440,11 +440,11 @@ skyscraper 摩天大楼
 
 complex 综合建筑
 
-high-rise 高层
+- high-rise 高层
 
-mansion 大厦
+- mansion 大厦
 
-villa 别墅
+- villa 别墅
 
 greenhouse 温室，花房
 
@@ -474,9 +474,9 @@ tiled roof 用瓦平铺的屋顶
 
 dome 圆屋顶
 
-skylight 天窗
+- skylight 天窗
 
-French window 落地长窗
+- French window 落地长窗
 
 bay window 凸窗
 
@@ -488,7 +488,7 @@ archway 拱门，拱道
 
 porch 门廊，游廊
 
-balcony 阳台
+- balcony 阳台
 
 veranda 门廊，阳台
 
@@ -538,11 +538,11 @@ storeroom 储藏室
 
 study 书房
 
-closet 壁橱，储藏室
+- closet 壁橱，储藏室
 
 corridor 室内走廊
 
-floorboards 地板
+- floorboards 地板
 
 skirtboard \/ baseboard 踢脚板
 
@@ -572,7 +572,7 @@ rack 架子
 
 coat-hanger 衣架
 
-umbrella stand 伞架
+- umbrella stand 伞架
 
 chest 箱子
 
@@ -592,7 +592,7 @@ radiator 散热器
 
 fan 风扇
 
-carpet 地毯
+- carpet 地毯
 
 rug 小毯
 
@@ -620,7 +620,7 @@ fireplace 壁炉
 
 stereo system 立体声音响
 
-speaker 音箱
+- speaker 音箱
 
 video cassette recorder \/ VCR 录象机
 
@@ -670,7 +670,7 @@ queen-size bed 大床
 
 wardrobe 衣橱
 
-chest of drawer 衣柜，五斗橱
+- chest of drawer 衣柜，五斗橱
 
 dressing table \/ dresser 梳妆台
 
@@ -694,7 +694,7 @@ blanket 毯子
 
 pillow 枕头
 
-pillow case 枕头套
+- pillow case 枕头套
 
 
 
