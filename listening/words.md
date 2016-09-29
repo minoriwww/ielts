@@ -44,7 +44,7 @@ public school （英）私立学校
 
  （美）公立学校
 
-private school 私立学校
+- private school 私立学校
 
 technical school 技校
 
@@ -256,7 +256,7 @@ seminar 研讨会，研讨班课程
 
 field trip 实地考察课程
 
-internship 实习，见习
+- internship 实习，见习
 
 
 
@@ -348,7 +348,7 @@ falsification of records 篡改成绩
 
 tuition fee 学费
 
-living expenses 生活费
+- living expenses 生活费
 
 incidental expenses 学杂费
 
@@ -372,7 +372,7 @@ accommodation 住宿
 
 homestay 寄宿于当地人家里
 
-student hostel 学生公寓，学生宿舍
+- student hostel 学生公寓，学生宿舍
 
 dormitory 寝室
 
@@ -380,7 +380,7 @@ room allocation 房间分配
 
 flat \/ apartment 公寓（出租给学生）
 
-on campus 住校
+- on campus 住校
 
 - off campus 不住校
 
@@ -718,11 +718,11 @@ wineglass 酒杯
 
 saucer 茶托
 
-dining set 餐具
+- dining set 餐具
 
 glassware 玻璃器皿
 
-silverware 银器
+- silverware 银器
 
 china 瓷器
 
@@ -770,9 +770,9 @@ microwave oven 微波炉
 
 toaster 烤炉，烤面包机
 
-dishwasher 洗碗机
+- dishwasher 洗碗机
 
-mixer \/ blender \/ liquidiser 搅拌机
+- mixer \/ blender \/ liquidiser 搅拌机
 
 whisk 搅拌器
 
