@@ -3,7 +3,6 @@
 <!-- toc --> 
 
 
-tags: Links, Zhihu, tag3 is here, tag4,' tag5', let's encrypt,
 
 ## Links
 
@@ -31,7 +30,6 @@ tags: Links, Zhihu, tag3 is here, tag4,' tag5', let's encrypt,
 
 [learn-english-ielts-home](http://ieltsadvantage.com/2015/03/03/learn-english-ielts-home-free/)
 
-{% video %}https://www.youtube.com/watch?v=Oru-qw-Faac {% endvideo %} 
 
 
 ## [ielts-mentor](http://www.ielts-mentor.com/)
